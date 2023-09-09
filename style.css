@@ -93,7 +93,7 @@ nav div {
   font-size: 3.75rem;
   line-height: 1.5;
   letter-spacing: 1px;
-  text-shadow: 4px 5px 3px #ecccb2;
+  text-shadow: 2px 3px 5px #ecccb2;
   margin-top: -80px;
 }
 h1 span {
@@ -121,7 +121,7 @@ h1 span {
   border-radius: 0.25rem;
   margin-top: 2.25rem;
   font-weight: 700;
-  box-shadow: 4px 5px 3px #ecccb2;
+  box-shadow: 2px 3px 5px #ecccb2;
 }
 
 .light-btn {
